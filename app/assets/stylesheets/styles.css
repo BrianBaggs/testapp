@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url('/assets/Roboto-Regular');
+}
+
+body {
+  margin: 42px;
+}
+
+h1 {
+  font-family: "Roboto-Regular", Gaget, sans-serif;
+  font-size: 2.5em;
+}
+
+p {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif, fantasy;
+}    
